@@ -1,0 +1,1 @@
+# Exemplo_Django_Manha_2026.1
